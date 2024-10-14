@@ -23,7 +23,7 @@ function Award() {
         <h2>ACHIEVEMENT</h2>
         <ul className="experience__list">
         <li
-               data-aos="fade-left"
+               data-aos="fade-down"
                data-aos-easing="ease-in-out"
                data-aos-duration="1200"
            >
@@ -39,7 +39,7 @@ function Award() {
       </p>
            </li>
           <li
-              data-aos="fade-left"
+               data-aos="fade-down"
               data-aos-easing="ease-in-out"
               data-aos-duration="1200"
           >
@@ -57,7 +57,7 @@ function Award() {
           </li>
           
           <li
-              data-aos="fade-left"
+              data-aos="fade-down"
               data-aos-easing="ease-in-out"
               data-aos-duration="1200"
           >
@@ -75,7 +75,7 @@ function Award() {
           </li>
 
           <li
-               data-aos="fade-left"
+                data-aos="fade-down"
                data-aos-easing="ease-in-out"
                data-aos-duration="1200"
           >
@@ -92,7 +92,7 @@ function Award() {
           </li>
 
           <li
-              data-aos="fade-left"
+             data-aos="fade-down"
               data-aos-easing="ease-in-out"
               data-aos-duration="1200"
           >
@@ -109,7 +109,7 @@ function Award() {
           </li>
 
           <li
-              data-aos="fade-left"
+                data-aos="fade-down"
               data-aos-easing="ease-in-out"
               data-aos-duration="1200"
           >
@@ -126,7 +126,7 @@ function Award() {
             </p>
           </li>
           <li
-              data-aos="fade-left"
+              data-aos="fade-down"
               data-aos-easing="ease-in-out"
               data-aos-duration="1200"
           >
@@ -143,7 +143,7 @@ function Award() {
             </p>
           </li>
           <li
-               data-aos="fade-left"
+               data-aos="fade-down"
                data-aos-easing="ease-in-out"
                data-aos-duration="1200"
             >
@@ -159,7 +159,7 @@ function Award() {
               </p>
             </li>
           <li
-              data-aos="fade-left"
+              data-aos="fade-down"
               data-aos-easing="ease-in-out"
               data-aos-duration="1200"
           >
