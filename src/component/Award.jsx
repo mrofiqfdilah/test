@@ -32,10 +32,10 @@ function Award() {
                  <img src={Politala} alt="Wuri Handayani Logo" />
                  <h4>1st Place and Best Solution in Application Development Competition for Leading Vocational Schools</h4>
                </div>
-               <p>12 September 2024</p>
+               <p>25 September 2024</p>
              </div>
       <p>
-      Officially Awarded By Politeknik Negeri Tanah Laut
+      Officially Awarded By Politeknik Negeri Tanah Laut.
       </p>
            </li>
           <li
@@ -67,7 +67,7 @@ function Award() {
                 <h4>
                 1st Place in Central Kalimantan Province Student Skills Competition (LKS) in the Web Technologies Category</h4>
               </div>
-              <p>22 April 2024</p>
+              <p>24 April 2024</p>
             </div>
             <p>
             Officially Awarded By Dinas Pendidikan Provinsi Kalimantan Tengah.
@@ -101,7 +101,7 @@ function Award() {
                 <img src={Upr} alt="Upr Logo" />
                 <h4>1st Place in Informatics Engineering Software Development Festival By University of Palangkaraya</h4>
               </div>
-              <p>19 Desember 2023</p>
+              <p>6 Desember 2023</p>
             </div>
             <p>
             Officially Awarded By Universitas Palangka Raya.
@@ -136,7 +136,7 @@ function Award() {
                 <h4>
                 2nd Place in Central Kalimantan Province Student Skills Competition (LKS) in the Web Technologies Category</h4>
               </div>
-              <p>22 September 2024</p>
+              <p>22 September 2023</p>
             </div>
             <p>
             Officially Awarded By Dinas Pendidikan Provinsi Kalimantan Tengah.
